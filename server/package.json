@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "author": "sebat",
   "main": "index.js",
-  "license": "samsu",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "axios": "^1.4.0",
     "cookie-parser": "^1.4.6",
