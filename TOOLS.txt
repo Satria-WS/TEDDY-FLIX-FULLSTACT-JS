@@ -24,3 +24,9 @@
 
 ========= SITE FOR API ==========
 - themoviedb.org
+
+
+- sebat.net/Movie
+
+
+application summary please elaborate on how you plan using api
